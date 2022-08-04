@@ -5,7 +5,7 @@ My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">l
 </div>
 <div align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=piotrbajdek&include_all_commits=true&hide_border=true&show_icons=true&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=piotrbajdek&hide_border=true&show_icons=true&count_private=true">
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&hide_border=true&langs_count=10">
