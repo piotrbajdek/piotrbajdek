@@ -8,6 +8,6 @@ My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">l
       <img src="https://github-readme-stats.vercel.app/api?username=piotrbajdek&hide_border=true&show_icons=true">
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&hide_border=true&layout=compact&langs_count=10">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&hide_border=true&layout=default&langs_count=10">
    </a>
 </div>
