@@ -5,9 +5,9 @@ My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">l
 </div>
 <div align="center">
    <a href="https://github.com/piotrbajdek/github-readme-stats">
-      <img src="github-readme-stats-ms0gy3og4-piotrbajdek.vercel.app/api?username=piotrbajdek&hide_border=true&show_icons=true">
+      <img src="https://github-readme-stats-piotrbajdek.vercel.app/api?username=piotrbajdek&hide_border=true&show_icons=true">
    </a>
    <a href="https://github.com/piotrbajdek/github-readme-stats">
-      <img src="github-readme-stats-ms0gy3og4-piotrbajdek.vercel.app/api/top-langs/?username=piotrbajdek&hide_border=true&langs_count=10">
+      <img src="https://github-readme-stats-piotrbajdek.vercel.app/api/top-langs/?username=piotrbajdek&hide_border=true&langs_count=10">
    </a>
 </div>
