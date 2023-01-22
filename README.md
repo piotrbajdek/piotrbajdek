@@ -37,9 +37,9 @@ My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">l
 <b>GITHUB STATISTICS</b>
 <br/>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=piotrbajdek&hide_border=true&hide=issues">
+      <img src="https://github-readme-stats.vercel.app/api?username=piotrbajdek&hide_border=true">
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&hide_border=true&layout=compact&langs_count=6">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&hide_border=true">
    </a>
 </div>
