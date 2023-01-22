@@ -31,15 +31,3 @@ My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">l
 [nuya](https://github.com/piotrbajdek/nuya) – remove files securely and conveniently [under construction]
 
 [youtube-dl-repl](https://github.com/piotrbajdek/youtube-dl-repl) – a frontend for youtube-dl providing an interactive shell mode (REPL)
-
-<br/>
-<div align="center">
-<b>GITHUB STATISTICS</b>
-<br/>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=piotrbajdek&hide_border=true">
-   </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&hide_border=true">
-   </a>
-</div>
