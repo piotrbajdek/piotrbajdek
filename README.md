@@ -34,6 +34,4 @@ My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">l
 
 [nuya](https://github.com/piotrbajdek/nuya) – remove files securely and conveniently [under construction]
 
-[silverpin](https://github.com/piotrbajdek/silverpin) – painlessly pin and unpin deployments on Fedora Silverblue, x86-64
-
 [youtube-dl-repl](https://github.com/piotrbajdek/youtube-dl-repl) – a frontend for youtube-dl providing an interactive shell mode (REPL)
