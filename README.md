@@ -22,7 +22,7 @@ My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">l
 
 **Astronautics**
 
-[mars-t](https://github.com/piotrbajdek/mars-t) – Mars Sol Date & Martian Coordinated Time: a library and a CLI app [under construction]
+[mars-t](https://github.com/piotrbajdek/mars-t) – Mars Sol Date & Martian Coordinated Time: a library and a CLI app
 
 **Utilities**
 
