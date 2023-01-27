@@ -24,9 +24,11 @@ My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">l
 
 [mars-t](https://github.com/piotrbajdek/mars-t) – Mars Sol Date & Martian Coordinated Time: a library and a CLI app
 
-**Utilities**
+**Miscellaneous**
 
 [cargo-my-bin](https://github.com/piotrbajdek/cargo-my-bin) – a cargo subcommand displaying the contents of ~/.cargo/bin/
+
+[musclecalc](https://github.com/piotrbajdek/musclecalc) – fitness: estimate the one repetition maximum (1RM)
 
 [nuya](https://github.com/piotrbajdek/nuya) – remove files securely and conveniently [under construction]
 
