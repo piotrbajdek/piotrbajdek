@@ -30,6 +30,4 @@ My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">l
 
 [musclecalc](https://github.com/piotrbajdek/musclecalc) – fitness: estimate the one repetition maximum (1RM)
 
-[nuya](https://github.com/piotrbajdek/nuya) – remove files securely and conveniently [under construction]
-
 [youtube-dl-repl](https://github.com/piotrbajdek/youtube-dl-repl) – a frontend for youtube-dl providing an interactive shell mode (REPL)
