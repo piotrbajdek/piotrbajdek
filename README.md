@@ -7,6 +7,12 @@ I'm particularly fond of mid-level programming languages and Unix-like operating
 My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">lngcnv</a> (linguistic) and <a href="https://github.com/piotrbajdek/coprosize">coprosize</a> (scientific).
 <br/>
 <br/>
+<b>PROGRAMMING LANGUAGES</b>
+<br/>
+<br/>
+I mostly use <a href="https://www.rust-lang.org/">Rust</a> for open source and <a href="https://fortran-lang.org/">Fortran</a> for AI development.
+<br/>
+<br/>
 <b>SELECTED PROJECTS</b>
 </div>
 
