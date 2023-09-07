@@ -10,7 +10,7 @@ My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">l
 <b>PROGRAMMING LANGUAGES</b>
 <br/>
 <br/>
-I mostly use <a href="https://www.rust-lang.org/">Rust</a> for open source and <a href="https://fortran-lang.org/">Fortran</a> for AI development.
+In the realm of open source, <a href="https://www.rust-lang.org/">Rust</a> is my primary tool, while I turn to <a href="https://fortran-lang.org/">Fortran</a> and <a href="https://www.lua.org/">Lua</a> for AI-related work.<br/>
 <br/>
 <br/>
 <b>SELECTED PROJECTS</b>
