@@ -26,6 +26,10 @@ In the realm of open source, <a href="https://www.rust-lang.org/">Rust</a> is my
 
 [nucleob](https://github.com/piotrbajdek/nucleob) – bioinformatics: nucleobases and amino acids statistics
 
+**Artificial Intelligence**
+
+[neurosculptor](https://github.com/piotrbajdek/neurosculptor) – a Lua-based deep learning program developed to tackle complex logical problems
+
 **Astronautics**
 
 [mars-t](https://github.com/piotrbajdek/mars-t) – Mars Sol Date & Martian Coordinated Time: a library and a CLI app
