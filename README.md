@@ -31,6 +31,8 @@ In the realm of open source, <a href="https://www.rust-lang.org/">Rust</a> is my
 
 **Artificial Intelligence**
 
+[BasketballProphet AI](https://github.com/piotrbajdek/BasketballProphet_AI) – neural network-based sport predictions
+
 [Fortran_AI](https://github.com/piotrbajdek/Fortran_AI) – a set of artificial intelligence/ machine learning algorithms in Fortran
 
 [neurosculptor](https://github.com/piotrbajdek/neurosculptor) – a Lua-based deep learning program developed to tackle complex logical problems
