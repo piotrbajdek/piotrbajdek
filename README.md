@@ -12,7 +12,7 @@ and <a href="https://github.com/piotrbajdek/neurosculptor">neurosculptor</a> (ar
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&layout=donut&langs_count=20&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&layout=donut&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <b>SELECTED PROJECTS</b>
