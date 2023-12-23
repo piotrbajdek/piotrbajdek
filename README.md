@@ -11,8 +11,9 @@ and <a href="https://github.com/piotrbajdek/neurosculptor">neurosculptor</a> (ar
 <b>PROGRAMMING LANGUAGES</b>
 <br/>
 <br/>
-In the realm of open source, <a href="https://www.rust-lang.org/">Rust</a> is my primary tool, while I turn to <a href="https://fortran-lang.org/">Fortran</a> and <a href="https://www.lua.org/">Lua</a> for AI-related work.<br/>
-<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&layout=donut&langs_count=20&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 <b>SELECTED PROJECTS</b>
 </div>
