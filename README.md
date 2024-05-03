@@ -4,8 +4,7 @@
 <br/>
 Hi, I'm a Rust programmer mostly interested in developing software for linguistics and biological sciences.<br/>
 I'm particularly fond of mid-level programming languages and Unix-like operating systems.<br/>
-My most important projects are <a href="https://github.com/piotrbajdek/lngcnv">lngcnv</a> (linguistic), <a href="https://github.com/piotrbajdek/coprosize">coprosize</a> (scientific),<br/>
-and <a href="https://github.com/piotrbajdek/neurosculptor">neurosculptor</a> (artificial intelligence).
+My most important open-source project is <a href="https://github.com/piotrbajdek/lngcnv">lngcnv</a> (a linguistic tool).
 <br/>
 <br/>
 <b>PROGRAMMING LANGUAGES</b>
@@ -27,8 +26,6 @@ and <a href="https://github.com/piotrbajdek/neurosculptor">neurosculptor</a> (ar
 [coprosize](https://github.com/piotrbajdek/coprosize) – coprolite research (paleontology and archaeology): estimate the producer's body mass based on coprolite diameter by the use of regression models
 
 [nucleob](https://github.com/piotrbajdek/nucleob) – bioinformatics: nucleobases and amino acids statistics
-
-[wiwaxia](https://github.com/piotrbajdek/wiwaxia) – a tool for non-random trend detection
 
 **Artificial Intelligence**
 
