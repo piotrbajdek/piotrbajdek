@@ -2,7 +2,8 @@
 <b>ABOUT ME</b>
 <br/>
 <br/>
-Hi, I'm a Rust programmer mostly interested in developing software for linguistics and biological sciences.<br/>
+Hi, I'm a Rust, Fortran, and Lua programmer mostly interested in developing software for linguistics and biological sciences,<br/>
+and also working on artificial intelligence.<br/>
 I'm particularly fond of mid-level programming languages and Unix-like operating systems.<br/>
 My most important open-source project is <a href="https://github.com/piotrbajdek/lngcnv">lngcnv</a> (a linguistic tool).
 <br/>
@@ -32,6 +33,8 @@ My most important open-source project is <a href="https://github.com/piotrbajdek
 [BasketballProphet AI](https://github.com/piotrbajdek/BasketballProphet_AI) – neural network-based sport predictions
 
 [Fortran_AI](https://github.com/piotrbajdek/Fortran_AI) – a set of artificial intelligence/ machine learning algorithms in Fortran
+
+[Fortunae Dispensator](https://github.com/piotrbajdek/Fortunae_Dispensator) – an investment capital optimisation model
 
 [neurosculptor](https://github.com/piotrbajdek/neurosculptor) – a Lua-based deep learning program developed to tackle complex logical problems
 
