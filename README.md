@@ -3,8 +3,8 @@
 <br/>
 <br/>
 Hi, I'm a Rust, Fortran, and Lua programmer mostly interested in developing software for linguistics and biological sciences,<br/>
-and also working on artificial intelligence.<br/>
-I'm particularly fond of mid-level programming languages and Unix-like operating systems.<br/>
+and also working on artificial intelligence.<br/><br/>
+I'm particularly fond of mid-level programming languages and Unix-like operating systems.<br/><br/>
 My most important open-source project is <a href="https://github.com/piotrbajdek/lngcnv">lngcnv</a> (a linguistic tool).
 <br/>
 <br/>
@@ -12,7 +12,7 @@ My most important open-source project is <a href="https://github.com/piotrbajdek
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&layout=donut&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrbajdek&layout=donut&hide_title=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <b>SELECTED PROJECTS</b>
