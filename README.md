@@ -48,4 +48,6 @@ My most important open-source project is <a href="https://github.com/piotrbajdek
 
 [musclecalc](https://github.com/piotrbajdek/musclecalc) – fitness: estimate the one repetition maximum (1RM)
 
+[tradingopher](https://github.com/piotrbajdek/tradingopher) – Market analysis tools for Gophers
+
 [yt-dlp-repl](https://github.com/piotrbajdek/yt-dlp-repl) – a frontend for yt-dlp providing an interactive shell mode (REPL)
