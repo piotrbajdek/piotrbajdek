@@ -3,7 +3,7 @@
 <br/>
 <br/>
 Hi, I'm a Rust, Fortran, and Lua programmer mostly interested in developing software for linguistics and biological sciences,<br/>
-and also working on artificial intelligence.<br/><br/>
+and also working on (largely closed-source) artificial intelligence.<br/><br/>
 I'm particularly fond of mid-level programming languages and Unix-like operating systems.<br/><br/>
 My most important open-source project is <a href="https://github.com/piotrbajdek/lngcnv">lngcnv</a> (a linguistic tool).
 <br/>
